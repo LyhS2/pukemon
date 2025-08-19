@@ -1,0 +1,16 @@
+{
+    "meta": { "name": "풋켓몬 서버 실행기기", "version": "1.0.0" },
+    "servers": [
+      {
+        "id": "pukemon",
+        "name": "풋켓몬 서버",
+        "address": "akqui.kro.kr",
+        "port": 25565,
+        "minecraftVersion": "1.21.1",
+        "modpack": {
+          "name": "풋켓몬 모드팩팩",
+          "url": "https://example.com/modpack.zip"
+        }
+      }
+    ]
+  }
