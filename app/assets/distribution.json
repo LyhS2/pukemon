@@ -9,7 +9,7 @@
         "minecraftVersion": "1.21.1",
         "modpack": {
           "name": "풋켓몬 모드팩팩",
-          "url": "https://example.com/modpack.zip"
+          "url": "https://github.com/LyhS2/pukemon/releases/download/v1.0.0/1.21.1.pukmon.modpack.zip"
         }
       }
     ]
